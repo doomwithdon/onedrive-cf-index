@@ -209,6 +209,7 @@ wrangler secret put AUTH_PASSWORD
 wrangler preview
 ```
 
+
 如果一切顺利，我们即可使用如下命令发布 Cloudflare Worker：
 
 ```sh
