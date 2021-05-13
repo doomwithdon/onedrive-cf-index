@@ -1,11 +1,11 @@
 name = "onedrive"
 type = "webpack"
 workers_dev = true
-account_id = "b87997a496f985b46b927b3f24c61de1"
-zone_id = "b04152d2c33ff4653cec1a579be6d42a"
+account_id = "6ff5702fa965de82ac237a6e21ffdc09"
+zone_id = "abb526ebd4bc7146dbc5fa173494aea3"
 kv_namespaces = [
-    { binding = "BUCKET", preview_id = "55b0fc4e288a465fb225421f2af5d445", id = "09b0cf433f394b309d35d1ff3bd0bf39" }
+    { binding = "BUCKET", preview_id = "6684bedd40a747148d9a6f2b28be3d9b", id = "6684bedd40a747148d9a6f2b28be3d9b" }
 ]
 
 [env.staging]
-name = "drive-staging"
+name = "onedrive-staging"
