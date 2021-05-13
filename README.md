@@ -153,6 +153,7 @@ wrangler login
 wrangler whoami
 ```
 
+
 Login to your CloudFlare account at <https://dash.cloudflare.com/login>, select your domain, **and scroll down a bit. You'll see your `account_id` and `zone_id` there (on the right sidebar).** Also create a **DRAFT** worker at `Workers` -> `Manage Workers` -> `Create a Worker` with a cool name.
 
 Modify [`wrangler.toml`](wrangler.toml):
