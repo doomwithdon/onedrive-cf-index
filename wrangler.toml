@@ -1,8 +1,8 @@
-name = "onedrive"
+name = "sharepoint"
 type = "webpack"
 workers_dev = true
-account_id = "6ff5702fa965de82ac237a6e21ffdc09"
-zone_id = "abb526ebd4bc7146dbc5fa173494aea3"
+account_id = "d4e8f9c5850cf6c4fa611669fb3c2c38"
+zone_id = "gdrivead.workers.dev"
 kv_namespaces = [
     { binding = "BUCKET", preview_id = "6684bedd40a747148d9a6f2b28be3d9b", id = "6684bedd40a747148d9a6f2b28be3d9b" }
 ]
